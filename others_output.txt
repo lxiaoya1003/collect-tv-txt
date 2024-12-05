@@ -343,7 +343,7 @@ CCTV7,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.liv
 春晚2022,https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
 
 
-◆◆◆　https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/special/special.txt
+◆◆◆　https://raw.githubusercontent.com/lxiaoya1003/collect-tv-txt/main/assets/special/special.txt
 CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV1,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000311/index.m3u8?IASHttpSessionId=
 CCTV2,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000317/index.m3u8?IASHttpSessionId=
@@ -18689,8 +18689,8 @@ CCTV-17,http://wouu.net:9977/udp/239.93.0.92:5140
 优漫卡通,http://fmbox.cc/公众号玉玉软件库/iptv6.php?id=00000049
 
 
-◆◆◆　https://raw.githubusercontent.com/kimwang1978/TV/master/output/result.txt
-◆◆◆　https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/assets/freetv/freetv_output_other.txt
+◆◆◆　https://raw.githubusercontent.com/lxiaoya1003/TV/master/output/result.txt
+◆◆◆　https://raw.githubusercontent.com/lxiaoya1003/collect-tv-txt/refs/heads/main/assets/freetv/freetv_output_other.txt
 CETV-1,https://stream1.freetv.fun/cetv-1-4.m3u8
 CETV-4,https://stream1.freetv.fun/cetv-4-3.m3u8
 CHC动作电影,https://stream1.freetv.fun/chc-dong-zuo-dian-ying-1.ctv

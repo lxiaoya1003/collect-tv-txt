@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/xzw832/cmys/refs/heads/main/S_CCTV.txt
 https://raw.githubusercontent.com/xzw832/cmys/refs/heads/main/S_weishi.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/special/special.txt
+https://raw.githubusercontent.com/lxiaoya1003/collect-tv-txt/main/assets/special/special.txt
 https://live.zhoujie218.top/tv/iptv6.txt
 https://raw.githubusercontent.com/mlzlzj/hnyuan/refs/heads/main/iptv_list.txt
 --http://kxrj.site:35455/tv.m3u
@@ -64,8 +64,8 @@ https://raw.githubusercontent.com/junge3333/juds6/main/yszb1.txt
 https://raw.githubusercontent.com/zzmaze/iptv/main/itvlist.txt
 --http://wp.wadg.pro/down.php/d7b52d125998d00e2d2339bac6abd2b5.txt
 https://raw.githubusercontent.com/maitel2020/iptv-self-use/main/iptv.txt
-https://raw.githubusercontent.com/kimwang1978/TV/master/output/result.txt
-https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/assets/freetv/freetv_output_other.txt
+https://raw.githubusercontent.com/lxiaoya1003/TV/master/output/result.txt
+https://raw.githubusercontent.com/lxiaoya1003/collect-tv-txt/refs/heads/main/assets/freetv/freetv_output_other.txt
 http://1805842a.123nat.com:66/agent/2.txt
 --https://gongdian.top/tv/gongdian.txt
 --https://gitea.moe/Fathers/EkfkgH/raw/branch/main/yyfug.txt
